@@ -20,5 +20,6 @@
     },
     "extra": {
         "installer-name": "silverstripe-socialnetwork-links"
-    }
+    },
+      "prefer-stable": true
 }
