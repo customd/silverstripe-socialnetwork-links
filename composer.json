@@ -1,8 +1,8 @@
 {
-    "name": "gdmedia/silverstripe-socialnetwork-links",
+    "name": "customd/silverstripe-socialnetwork-links",
     "description": "Simple Silver Stripe module to display social network links in your template",
     "type": "silverstripe-module",
-    "homepage": "https://github.com/guru-digital/silverstripe-socialnetwork-links",
+    "homepage": "https://github.com/customd/silverstripe-socialnetwork-links",
     "keywords": ["silverstripe", "social networks", "template"],
     "license": "BSD-3-Clause",
     "authors": [
@@ -12,10 +12,10 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/guru-digital/silverstripe-socialnetwork-links/issues"
+        "issues": "https://github.com/customd/silverstripe-socialnetwork-links/issues"
     },
     "require": {
-        "silverstripe/cms": "^3.0.1",
+        "silverstripe/cms": "^3.6",
         "composer/installers": "*"
     },
     "extra": {
